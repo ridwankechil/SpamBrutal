@@ -259,10 +259,10 @@ if __name__=="__main__":
           clear()
           baner()
           hh="+62"
-          no=input("[+] Gunakan (+62xxxxxxxx)                      Nomor Target: ")
+          no=input("[+] Gunakan (+62xxxxxxxx)                  Nomor Target: ")
           c=no[1:12]
           w=hh+c 
-          kata("Sabar Boss ku....!!                       Jika mau script yang work lainya kunjungi   Channel Ridwan Kechil")
+          kata("Sabar Boss ku....!!                       Jika mau script yang work lainya kunjungi  Channel Ridwan Kechil")
           jenius()
           oyo()
           mapclub()

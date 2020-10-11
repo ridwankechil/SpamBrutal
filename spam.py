@@ -17,11 +17,13 @@ ____  ____       _____     _
 |  _ \| |_) | | | || |/ _` | |
 | |_) |  _ <| |_| || | (_| | |___
 |____/|_| \_\\__,_||_|\__,_|_____|
-\t---------------
+\t----------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 \nCreator: Ridwan58aja
 Youtube: Ridwan Kechil
 Github : github.com/RidwanKechil
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|Baca Dulu Ya
 |•jangan lupa Subscribe Channel 
 |Ridwan Kechil 😉😊
 |Dan Kita kembangin channel tersebut

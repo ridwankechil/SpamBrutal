@@ -6,23 +6,20 @@ def clear():
 def balik():
     f=input("\t[enter to back]")
     if f == "":
-       os.system("python Spam.py")
+       os.system("python spam.py")
     else:
        sys.exit()
 def baner():
     print ('''
 \t
-____                            ____
-/ ___| _ __   __ _ _ __ ___     | __ )
-\___ \| '_ \ / _` | '_ ` _ \    |  _ \
- ___) | |_) | (_| | | | | | |   | |_) |
-|____/| .__/ \__,_|_| |_| |_|___|____/
-      |_|                  |_____|
+╔╗ ┬─┐┬ ┬┌┬┐┌─┐┬   ✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓
+╠╩╗├┬┘│ │ │ ├─┤│   ✓✓✓✓✓✓✓✓✓✓✓✓✓
+╚═╝┴└─└─┘ ┴ ┴ ┴┴─┘ ✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓
 \t------------
-\nCreator: Mr. WRpy
+\nCreator: Ridwan58aja
 Youtube: Ridwan Kechil
 Github : github.com/RidwanKechil
-~~~~~~~~~~~~~~~>>>>>>>>>>>[✓]'')
+==========>>> =========>>>>>>>''')
 def kata(s):
     for c in s + "\n":
         sys.stdout.write(c)

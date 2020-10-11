@@ -251,7 +251,7 @@ if __name__=="__main__":
           no=input("[+]Phone Number: ")
           c=no[1:12]
           w=hh+c 
-          kata("Sabar Boss ku....!!                        Jika mau script yang work lainya kunjungi                                    Channel Ridwan Kechil")
+          kata("Sabar Boss ku....!!                       Jika mau script yang work lainya kunjungi                                          Channel Ridwan Kechil")
           jenius()
           oyo()
           mapclub()

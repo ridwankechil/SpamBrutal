@@ -6,7 +6,7 @@ def clear():
 def balik():
     f=input("\t[enter to back]")
     if f == "":
-       os.system("python WR.py")
+       os.system("python Spam.py")
     else:
        sys.exit()
 def baner():

@@ -12,13 +12,22 @@ def balik():
 def baner():
     print ('''
 \t
-╔╗ ┬─┐┬ ┬┌┬┐┌─┐┬   ✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓
-╠╩╗├┬┘│ │ │ ├─┤│   ✓✓✓✓✓✓✓✓✓✓✓✓✓
-╚═╝┴└─└─┘ ┴ ┴ ┴┴─┘ ✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓✓
-\t------------
+____  ____       _____     _
+| __ )|  _ \ _   |_   _|_ _| |
+|  _ \| |_) | | | || |/ _` | |
+| |_) |  _ <| |_| || | (_| | |___
+|____/|_| \_\\__,_||_|\__,_|_____|
+\t---------------
 \nCreator: Ridwan58aja
 Youtube: Ridwan Kechil
 Github : github.com/RidwanKechil
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+|•jangan lupa Subscribe Channel 
+|Ridwan Kechil 😉😊
+|Dan Kita kembangin channel tersebut
+|Supaya menjadi channel yang bisa
+|Berguna buat kalian semuanya
+|Jangan Lupa Tersenyum 😊
 ==========>>> =========>>>>>>>''')
 def kata(s):
     for c in s + "\n":

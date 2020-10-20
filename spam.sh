@@ -7,8 +7,9 @@ echo "kode scriptnya {567686}"
 read -p "root@Kode Script > " bro
 if [ $bro = 567686 ] || [ $bro = 567686 ]
 then
-sleep 2
+sleep 1
 echo "subscribe dulu"
+sleep 2
 termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
 sleep 3
 clear

@@ -2,6 +2,7 @@ import os,sys,time,requests,re,json,random
 from random import randrange as rg
 print ("\033[00m")
 def clear():
+    termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
     os.system("clear")
 def balik():
     f=input("\t[enter to back]")
@@ -25,7 +26,6 @@ Github : github.com/RidwanKechil
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 |Subscribe Dulu Bozz Biar Masuk Ke target
 ==========>>> =========>>>>>>>''')
-termux-open https://www.youtube.com/channel/UCTMBlJoMW9jaWyiv8oZsjKw
 def kata(s):
     for c in s + "\n":
         sys.stdout.write(c)

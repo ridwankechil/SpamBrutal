@@ -9,5 +9,5 @@ if [ $bro = 567686 ] || [ $bro = 567686 ]
 then
 sleep 2
 clear
-python spam.py
+python Subscribe
 fi

@@ -7,9 +7,9 @@ echo "kode scriptnya {W32W58}"
 read -p "root@Kode Script > " bro
 if [ $bro =W32W58] || [ $bro =W32W58]
 then
-sleep 1
+
 echo "subscribe dulu"
-sleep 2
+
 echo "Subscribe channel ini ya gan"
 sleep 3
 clear

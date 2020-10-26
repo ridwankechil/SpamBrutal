@@ -6,7 +6,7 @@ def clear():
 def balik():
     f=input("\t[enter to back]")
     if f == "":
-       os.system("python Subscribe")
+       os.system("python spam.sh")
     else:
        sys.exit()
 def baner():
